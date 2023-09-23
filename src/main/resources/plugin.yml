@@ -1,0 +1,8 @@
+name: Stuff
+version: "${version}"
+main: net.tonimatasdev.stuff.Stuff
+api-version: "1.13"
+
+commands:
+  generator:
+    description: xd
